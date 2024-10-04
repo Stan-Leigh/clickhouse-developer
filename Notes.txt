@@ -4,3 +4,9 @@ M2. Number of rows read -> 557,056
 
 M3. Volume greater than 1,000,000 -> 311,089
     Average price that starts with B -> 72.04511933246529
+
+M4.2. Average price for postcode 1 and 2 -> 73461.87334593573
+      Average price for York -> 208573.36750813763
+
+M4.3. Actual amount -> 8163564603.14
+      Approved amount 2022 -> 5086410509
