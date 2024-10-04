@@ -1,3 +1,6 @@
 M1. Average volume of Bitcoin -> 10,411,891,574.238258
 
 M2. Number of rows read -> 557,056
+
+M3. Volume greater than 1,000,000 -> 311,089
+    Average price that starts with B -> 72.04511933246529
