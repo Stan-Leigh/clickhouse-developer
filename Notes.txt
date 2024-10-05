@@ -10,3 +10,8 @@ M4.2. Average price for postcode 1 and 2 -> 73461.87334593573
 
 M4.3. Actual amount -> 8163564603.14
       Approved amount 2022 -> 5086410509
+
+M5. Number of houses > 1 million in 2022 -> 36475
+    Unique towns -> 1172
+    Town with highest properties sold -> LONDON
+    Sum prices for counties -> 29935920858
