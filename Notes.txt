@@ -15,3 +15,9 @@ M5. Number of houses > 1 million in 2022 -> 36475
     Unique towns -> 1172
     Town with highest properties sold -> LONDON
     Sum prices for counties -> 29935920858
+
+M6.1. Number of rows in London view -> 2188031
+      Max price and street for Liverpool -> 300000000, SEFTON STREET
+
+M6.2. Count & avg price of properties sold in 2020 -> 886642, 378060.000030452
+      Count, max, avg, quantile for Staffordshire -> 1322, 745000, 160241.94402420576, 269670.00000000006
