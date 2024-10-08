@@ -21,3 +21,8 @@ M6.1. Number of rows in London view -> 2188031
 
 M6.2. Count & avg price of properties sold in 2020 -> 886642, 378060.000030452
       Count, max, avg, quantile for Staffordshire -> 1322, 745000, 160241.94402420576, 269670.00000000006
+
+M7.1. Number or rows in prices_sum_dest -> 1172
+      Top town by total price -> LONDON
+
+M7.2. Number of homes sold in 2020 -> 886642
