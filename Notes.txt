@@ -26,3 +26,7 @@ M7.1. Number or rows in prices_sum_dest -> 1172
       Top town by total price -> LONDON
 
 M7.2. Number of homes sold in 2020 -> 886642
+
+M8.1. Number of parts in default cluster -> 993
+
+M8.2. Most downloaded package -> boto3
