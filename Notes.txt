@@ -30,3 +30,8 @@ M7.2. Number of homes sold in 2020 -> 886642
 M8.1. Number of parts in default cluster -> 993
 
 M8.2. Most downloaded package -> boto3
+
+M9. Number of rows for uk_mortgage able -> 220
+    Date with highest volume -> 2021-06-01
+    Variable correlation value -> 0.29808125
+    Fixed correlation value -> -0.2543798
