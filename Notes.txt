@@ -35,3 +35,9 @@ M9. Number of rows for uk_mortgage able -> 220
     Date with highest volume -> 2021-06-01
     Variable correlation value -> 0.29808125
     Fixed correlation value -> -0.2543798
+
+M10. January 2022 answer -> variable=2.42 , fixed=1.92 , bank=0.25
+     April 2022 fixed rate -> 2.6 
+
+M11.1. Enforce creating columns in wide storage format
+M11.2. TTL -> 1 Minute
