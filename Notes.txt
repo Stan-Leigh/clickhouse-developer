@@ -41,3 +41,7 @@ M10. January 2022 answer -> variable=2.42 , fixed=1.92 , bank=0.25
 
 M11.1. Enforce creating columns in wide storage format
 M11.2. TTL -> 1 Minute
+
+M12.1. Average price in Greater London -> 410390.41191489174
+M12.2. Number of properties sold in Liverpool 2023 -> 4667
+       Most expensive property in Liverpool -> 300000000
